@@ -1,0 +1,27 @@
+.gitignore
+  s_bcb86f4fc5b196::t_db8c60e5295fff 1-5
+pom.xml
+  s_bcb86f4fc5b196::t_a0b9088733c10c 1-45
+src/main/java/com/example/orcatest/OrcaTestApplication.java
+  s_bcb86f4fc5b196::t_fb93821a791e74 1-12
+src/main/resources/application.yml
+  s_bcb86f4fc5b196::t_09ca74c5aa15f6 1-6
+src/test/java/com/example/orcatest/OrcaTestApplicationTests.java
+  s_bcb86f4fc5b196::t_0d01a107483c53 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "41a82fe93ecab91b129bc50e960e8c3a74464812",
+  "prompts": {},
+  "sessions": {
+    "s_bcb86f4fc5b196": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e46bfe5d-8f01-4d7c-9934-c75ce77100a3",
+        "model": "unknown"
+      },
+      "human_author": "zengzuo613 <zengzuo613@126.com>"
+    }
+  }
+}
